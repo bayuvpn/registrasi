@@ -5,7 +5,7 @@
 <pre><code>apt update && apt upgrade -y && update-grub && sleep 2 && reboot</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>MAINTENANCE ‼️‼️
+<pre><code>MAINTENANCE ‼️‼️</code></pre>
 
 ### UPDATE SCRIPT
 <pre><code>wget https://raw.githubusercontent.com/bayuvpn/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
